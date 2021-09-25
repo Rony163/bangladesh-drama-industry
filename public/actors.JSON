@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "image": "https://dailyasianage.com/library/1602615748_5.jpg",
+        "name": "Tahsan Rahman Khan",
+        "age": 41,
+        "ocupation": "Singer & Actor",
+        "salary": 200000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 2,
+        "image": "https://i.pinimg.com/236x/c4/d0/9b/c4d09bac82c9b63d0689d967fcaba5d9.jpg",
+        "name": "Ziaul Faruq Apurba",
+        "age": 38,
+        "ocupation": "Model & Actor",
+        "salary": 100000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 3,
+        "image": "https://i.pinimg.com/736x/53/5b/c4/535bc49bad4e4ad5c247e9d96b59920b.jpg",
+        "name": "Afran Nisho",
+        "age": 40,
+        "ocupation": "Actor",
+        "salary": 150000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 4,
+        "image": "https://www.newagebd.com/files/records/news/202102/129050_133.jpg",
+        "name": "Siam Ahmed",
+        "age": 37,
+        "ocupation": "Actor",
+        "salary": 180000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 5,
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwiki.factsider.com%2Fwp-content%2Fuploads%2F2018%2F12%2FFarhan-Ahmed-Jovan.jpg&imgrefurl=https%3A%2F%2Fwiki.factsider.com%2Ffarhan-ahmed-jovan-bio-facts-family-photos-and-carrier%2F&tbnid=mgppEfAC1GDWeM&vet=12ahUKEwi24aLtkJvzAhUTEnIKHcMMBV8QMygAegUIARCdAQ..i&docid=HXKe59df7sa7DM&w=768&h=960&q=jovan%20ahmed%20image&ved=2ahUKEwi24aLtkJvzAhUTEnIKHcMMBV8QMygAegUIARCdAQ",
+        "name": "Farhan Ahmed Jovan",
+        "age": 37,
+        "ocupation": "Actor",
+        "salary": 70000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 6,
+        "image": "https://i.pinimg.com/originals/ed/a4/c2/eda4c2a752c5054dcedfe061066e5141.jpg",
+        "name": "Mehazabien Chowdhury",
+        "age": 31,
+        "ocupation": "Actress",
+        "salary": 100000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 7,
+        "image": "https://thedailynewnation.com/library/1617554273_2.jpg",
+        "name": "Tanjin Tisha",
+        "age": 32,
+        "ocupation": "Actress",
+        "salary": 90000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 8,
+        "image": "https://www.newagebd.com/files/records/news/202108/147809_165.jpeg",
+        "name": "Pori Moni",
+        "age": 35,
+        "ocupation": "Actress",
+        "salary": 120000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 9,
+        "image": "https://pbs.twimg.com/media/ETetVN7UEAEZqhn.jpg",
+        "name": "Dilara Hanif Rita",
+        "age": 40,
+        "ocupation": "Actress",
+        "salary": 100000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 10,
+        "image": "https://www.daily-bangladesh.com/media/imgAll/2019September/en/Sabila-Nur-1910140837.jpg",
+        "name": "Sabila Nur",
+        "age": 25,
+        "ocupation": "Actress",
+        "salary": 80000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 11,
+        "image": "https://celebritynewsbd.com/wp-content/uploads/2017/09/Capturelll.png",
+        "name": "Anika Kabir Shokh",
+        "age": 27,
+        "ocupation": "Actress",
+        "salary": 70000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 12,
+        "image": "https://assetsds.cdnedge.bluemix.net/sites/default/files/styles/very_big_201/public/feature/images/2021/05/12/mosharraf_karim_14.jpg?itok=6nZAumHd",
+        "name": "K M Mosharraf Hossain",
+        "age": 50,
+        "ocupation": "Actor",
+        "salary": 100000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 13,
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D101857127974489&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fpages%2Fcategory%2FActor%2FTawsif-mahbub-fans-club-101857127974489%2F&tbnid=eCnpxJtx5O_vcM&vet=12ahUKEwj0jsXclZvzAhWN5zgGHdx8Bf4QMygAegUIARC6AQ..i&docid=_QNUlPurf9Us6M&w=480&h=666&q=tawsif%20mahbub%20images&ved=2ahUKEwj0jsXclZvzAhWN5zgGHdx8Bf4QMygAegUIARC6AQ",
+        "name": "Tawsif Mahbub",
+        "age": 32,
+        "ocupation": "Actor",
+        "salary": 900000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 14,
+        "image": "https://media-eng.dhakatribune.com/uploads/2019/06/untitled-8-1559558322559.jpg",
+        "name": "Sadia Jahan Prova",
+        "age": 35,
+        "ocupation": "Actress",
+        "salary": 60000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 15,
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D100044398357376&imgrefurl=https%3A%2F%2Fwww.facebook.com%2Fmishusabbiractor&tbnid=KATtDLmIR3c69M&vet=12ahUKEwjW5_i5lpvzAhX7xjgGHa8zAooQMygAegUIARCwAQ..i&docid=Z1FrLxXrPrcmIM&w=796&h=960&q=misu%20sabbir&ved=2ahUKEwjW5_i5lpvzAhX7xjgGHa8zAooQMygAegUIARCwAQ",
+        "age": 36,
+        "name": "Mishu Sabbir",
+        "ocupation": "Actor",
+        "salary": 80000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 16,
+        "image": "https://pbs.twimg.com/media/EP0nxHDU4AAK3pA.jpg",
+        "name": "Ziaul Haque Palash",
+        "age": 33,
+        "ocupation": "Director & Actor",
+        "salary": 120000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 17,
+        "image": "https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D113065430167981&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FSanjanaSarkarRiyaOfficial%2F&tbnid=sK9onQdOIeD_nM&vet=12ahUKEwi3jdbMl5vzAhUqgksFHSrvBR4QMygAegUIARCcAQ..i&docid=yRigUE9dIX4GaM&w=774&h=769&q=sanjana%20sarkar%20riya&ved=2ahUKEwi3jdbMl5vzAhUqgksFHSrvBR4QMygAegUIARCcAQ",
+        "name": "Sanjana Sarkar Riya",
+        "age": 26,
+        "ocupation": "Actress",
+        "salary": 60000,
+        "country": "Bangladesh"
+    },
+    {
+        "id": 18,
+        "image": "https://m.media-amazon.com/images/M/MV5BYmQ0ZWJhY2MtYjZiZi00Y2ZjLTg3YTktNDgwZDViZmFjZTdjXkEyXkFqcGdeQXVyNDI3NjcxMDA@._V1_UY1200_CR261,0,630,1200_AL_.jpg",
+        "name": "Nusrat Imroz Tisha",
+        "age": 34,
+        "ocupation": "Actress",
+        "salary": 95000,
+        "country": "Bangladesh"
+    }
+]
