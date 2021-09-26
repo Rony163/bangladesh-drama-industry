@@ -1,3 +1,6 @@
 .cart-container{
-    background-color: grey;
+    width: 80%;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding: 5px;
 }

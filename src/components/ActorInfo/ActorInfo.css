@@ -1,0 +1,11 @@
+.actor-info{
+    display: grid;
+    margin-top: 10px;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+}
+.actor-info img{
+    height: 100px;
+    width: 100px;
+    border-radius: 100px;
+}

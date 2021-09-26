@@ -12,7 +12,7 @@ const Actor = (props) => {
             <p>Ocupation: {ocupation}</p>
             <p>Salary: {salary}</p>
             <p>Country: {country}</p>
-            <button>Add To Cart</button>
+            <button onClick={() => props.handleAddToCart(props.actor)}>Add To Cart</button>
         </div>
     );
 };

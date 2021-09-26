@@ -11,17 +11,25 @@ const Actors = () => {
             .then(data => setActors(data))
     }, []);
 
+    const [actor, setActor] = useState([]);
+
+    const handleAddToCart = (actorInfo) => {
+        const newActor = [...actor, actorInfo];
+        setActor(newActor);
+    }
+
     return (
         <div className="actors-container">
             <div className="actors">
                 {
                     actors.map(actor => <Actor
                         key={actor.id}
+                        handleAddToCart={handleAddToCart}
                         actor={actor}></Actor>)
                 }
             </div>
             <div>
-                <Cart></Cart>
+                <Cart actor={actor}></Cart>
             </div>
         </div>
     );
