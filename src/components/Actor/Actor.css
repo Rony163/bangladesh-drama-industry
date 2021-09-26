@@ -1,0 +1,14 @@
+.actor{
+    text-align: center;
+    background-color: rgb(106,113,122);
+    border: 2px solid aquamarine;
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    border-radius: 10px;
+}
+.actor img{
+    border-radius: 200px;
+    width: 200px;
+    height: 200px;
+}
