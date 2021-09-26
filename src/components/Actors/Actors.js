@@ -4,15 +4,19 @@ import Cart from '../Cart/Cart';
 import './Actors.css';
 
 const Actors = () => {
+    // set use state for get actors
     const [actors, setActors] = useState([]);
+    // using useEffect for fetch the data
     useEffect(() => {
         fetch('actors.JSON')
             .then(res => res.json())
             .then(data => setActors(data))
     }, []);
 
+    // usestate for cart components
     const [actor, setActor] = useState([]);
 
+    // add handlecart funtion
     const handleAddToCart = (actorInfo) => {
         const newActor = [...actor, actorInfo];
         setActor(newActor);
